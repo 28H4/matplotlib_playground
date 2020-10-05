@@ -2,6 +2,10 @@
 
 Collection of some Matplot scripts.
 
+# diagram_with_residues
+
+![](diagram_with_residues/example.png)
+
 # plot_one_x_many_y
 
 Plots x-y<sub>1</sub>-y<sub>2</sub>-y<sub>3</sub>...y<sub>N</sub> as scatter plot and adds B-spline fit.
